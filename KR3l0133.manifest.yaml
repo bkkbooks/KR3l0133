@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0133_001.yaml, hash: 'sha256:05a339e60decff98580c7faa372f8e516bd2ee13ec5dfc7f725dbcc99bdc6fee'}
+  - {seq: 1, filename: KR3l0133_001.yaml, hash: 'sha256:4379425984ac03970837b174b280e81a3ceaea6da9a2fd50d474bef648fbccb9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0133_001.markers.yaml, hash: 'sha256:54e9a240eb66945c33362c72e4005e3b1945dd75268aa1dc80607b6eadd6aeb6'}
+  - {seq: 1, role: markers, filename: assets/KR3l0133_001.markers.yaml, hash: 'sha256:d48601f4cbccceb58fcdbddeef567a3f3d80f95b15b351bc74d3bd95febe9152'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 古今善言
   type: section
   level: 1
-hash: sha256:55886d459c125121f8e683f981a785ca7f8c440bacae374d2f260fba39c5cdf4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a919dd35566b3cd20a1a9fa55698707be85c7ff09106aace9e35cd397592b249
